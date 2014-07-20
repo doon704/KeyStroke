@@ -1,0 +1,10 @@
+How to execute KeyStroke code files:
+
+1) Create a new document with the file extension .key.
+2) Copy the KeyStroke Python file into the same directory as the .key file.
+3) In that document type the code for the KeyStroke program. Remember to have a new line every new command!
+4) Save the code, In Windows, open CMD and navigate to the directory of your program and KeyStoke file. 
+5) In this current version type: python KeyStroke.py <name of file>.key
+6) In the same window the program will execute.
+
+Any questions email: will704@hotmail.co.uk
